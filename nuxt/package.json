@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-demo",
+  "version": "1.0.0",
+  "description": "My wicked Nuxt.js project",
+  "author": "AnstJJ",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "cross-env": "^5.2.0",
+    "element-ui": "^2.4.6",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "nuxt": "^2.0.0",
+    "postcss-px2rem": "^0.3.0",
+    "vue-awesome-swiper": "^3.1.3",
+    "yarn": "^1.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

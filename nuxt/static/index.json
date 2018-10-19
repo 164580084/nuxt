@@ -1,0 +1,24 @@
+{
+  "seller":[
+    {
+      "img": "../../static/img/加油站.png",
+      "name": "加油站",
+      "datatype": "折扣油价"
+    },
+    {
+      "img": "../../static/img/医院.png",
+      "name": "ATM",
+      "datatype": ""
+    },
+    {
+      "img": "../../static/img/银行.png",
+      "name": "公交地铁",
+      "datatype": ""
+    },
+    {
+      "img": "../../static/img/电影院.png",
+      "name": "团购",
+      "datatype": ""
+    }
+  ]
+}
